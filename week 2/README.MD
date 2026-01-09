@@ -1,7 +1,7 @@
 # Full VAPT Lab – Vulnerability Assessment & Penetration Testing
 
 This repository documents a complete Vulnerability Assessment and Penetration Testing (VAPT)
-cycle performed in a controlled lab environment.
+cycle performed in a lab environment.
 
 ## Covered Phases
 1. Vulnerability Scanning
@@ -15,6 +15,4 @@ cycle performed in a controlled lab environment.
 - Shodan, Maltego
 - Metasploit, sqlmap, Burp Suite
 - Kali Linux
-
-#All activities were conducted for educational purposes only.
 
