@@ -1,4 +1,4 @@
-<img width="608" height="218" alt="image" src="https://github.com/user-attachments/assets/fe66fef2-2f10-4d29-9a8c-0aff25871dd6" />**Overview**
+**Overview**
 
 This section documents the Reconnaissance phase of the VAPT lifecycle.
 The goal of this phase was to gather publicly available information, identify exposed services, and map external assets related to the target using OSINT techniques.
