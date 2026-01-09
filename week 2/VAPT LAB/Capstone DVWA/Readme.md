@@ -1,4 +1,4 @@
-<img width="1113" height="506" alt="Screenshot 2026-01-09 215051" src="https://github.com/user-attachments/assets/454ab4d7-135f-4e3a-9026-e00d45f288ff" />**Overview**
+**Overview**
 
 This capstone project demonstrates a complete Vulnerability Assessment and Penetration Testing (VAPT) cycle following PTES methodology.
 The objective was to simulate a real-world penetration test by identifying, exploiting, validating, and reporting vulnerabilities in a vulnerable web application.
@@ -76,7 +76,19 @@ To automate exploitation and extract database contents, sqlmap was used.
 Vulnerabilities were logged and mapped to PTES phases.
 
 
+**PTES Report Summary**
 
+This capstone project simulated a complete VAPT engagement using the PTES framework. The assessment began with identifying SQL Injection vulnerabilities in DVWA through manual testing. 
+Further exploitation using sqlmap confirmed the presence of both classic and blind SQL injection flaws, allowing database enumeration and sensitive data extraction.
+Detection activities were logged and mapped to PTES phases to ensure structured testing. The exploitation phase demonstrated how improper input validation can lead to severe data exposure.
+Remediation steps such as prepared statements, input sanitization, and secure coding practices were recommended to mitigate the risk.
+This project highlights the importance of secure development practices, regular vulnerability assessments, and continuous security testing to reduce application-level threats.
+
+
+**Conclusion**
+
+The capstone project successfully demonstrated a full VAPT lifecycle, from vulnerability discovery to exploitation and remediation planning.
+The findings reinforce the need for proactive security testing and adherence to best security practices in application development.
 
 
 
