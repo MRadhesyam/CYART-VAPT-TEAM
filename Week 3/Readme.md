@@ -16,24 +16,24 @@ Perform advanced exploitation and exploit chaining
   Execute a full VAPT capstone project
 
 **Tools Used**
-  Kali Linux
-  Metasploit Framework
-  Nmap
-  SQLmap
-  Burp Suite
-  Nikto
-  OWASP ZAP
-  OpenVAS
-  Wireshark
-  Draw.io
+  Kali Linux,
+  Metasploit Framework,
+  Nmap,
+  SQLmap,
+  Burp Suite,
+  Nikto,
+  OWASP ZAP,
+  OpenVAS,
+  Wireshark,
+  Draw.io.
 
 **Lab Environment**
-  Attacker Machine: Kali Linux
+  Attacker Machine: Kali Linux,
   Targets:
-    Metasploitable 2
-    DVWA
-    Kioptrix Level 1
-  Virtualization: VMware Workstation
+    Metasploitable 2,
+    DVWA,
+    Kioptrix Level 1,
+  Virtualization: VMware Workstation.
 
 **Key Activities**
 
